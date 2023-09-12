@@ -1,5 +1,5 @@
 title: Cody Coponiti # your name (or website title) here
-logo: https://github.com/Coponiti1/Coponiti1.github.io/blob/master/images/Profile%20pic.jpg
+logo: ![alt text](https://github.com/Coponiti1/Coponiti1.github.io/blob/master/images/Profile%20pic.jpg?raw=true)
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
