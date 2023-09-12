@@ -1,10 +1,12 @@
 title: Cody Coponiti # your name (or website title) here
 logo: "/images/Profile%20pic.jpg?raw=true"
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  University of Oklhoma GIS Masters student
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+ M.A. National Security Studies form the Institute for World Politics 
+ B.A. Political Science from the Univerity of Science and Arts of Oklahoma
+
+
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
