@@ -8,8 +8,8 @@
 <img src="images/PY%20Project%20pic.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Austin Tx, Middle School transitshed](/pdf/sample_presentation.pdf)
+<img src="images/Austin%20Texas%20Middle%20Schoold%20transit%20shed.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
