@@ -4,7 +4,7 @@
 
 ### Project Images
 
-[Medical Facility Accessibility](/sample_page)
+[Medical Facility Accessibility in Fairfax, VA](/sample_page)
 <img src="images/PY%20Project%20pic.jpg?raw=true"/>
 
 ---
@@ -13,8 +13,9 @@
 <img src="images/Austin%20Texas%20Middle%20Schoold%20transit%20shed.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Public Transportation and The Housing Market](http://example.com/)
+
+<img src="images/Metro%20access.png?raw=true"/>
 
 ---
 
