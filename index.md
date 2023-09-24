@@ -21,7 +21,7 @@
 
 ### Project PDFs
 
-- [Medical Facility Accessibility in Fairfax, VA](http://example.com/)
+- [Medical Facility Accessibility in Fairfax, VA](https://github.com/Coponiti1/Coponiti1.github.io/blob/master/pdf/Final%20Paper.pdf)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
