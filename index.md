@@ -5,7 +5,7 @@
 ### Project Images
 
 [Medical Facility Accessibility](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/PY%20Project%20pic.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
