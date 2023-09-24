@@ -4,7 +4,7 @@
 
 ### Project Images
 
-[Project 1 Title](/sample_page)
+[Medical Facility Accessibility](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
