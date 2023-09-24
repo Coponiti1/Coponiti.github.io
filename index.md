@@ -5,11 +5,11 @@
 ### Project Images
 
 [Medical Facility Accessibility](/sample_page)
-
 <img src="images/PY%20Project%20pic.jpg?raw=true"/>
 
 ---
 [Austin Tx, Middle School transitshed](/pdf/sample_presentation.pdf)
+
 <img src="images/Austin%20Texas%20Middle%20Schoold%20transit%20shed.png?raw=true"/>
 
 ---
