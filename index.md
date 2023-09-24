@@ -24,8 +24,7 @@
 - [Medical Facility Accessibility in Fairfax, VA](https://github.com/Coponiti1/Coponiti1.github.io/blob/master/pdf/Final%20Paper.pdf)
 - [Austin Tx, Middle School transitshed](https://github.com/Coponiti1/Coponiti1.github.io/blob/master/pdf/CCoponiti_Lab2.pdf)
 - [Public Transportation and The Housing Market](https://github.com/Coponiti1/Coponiti1.github.io/blob/master/pdf/Project%20.pdf)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
 
 ---
 
